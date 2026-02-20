@@ -161,19 +161,6 @@ g++ -std=c++17 -O2 main.cpp -o optimizer
 
 ---
 
-## 📂 Project Structure
-
-```
-cluster-load-balancing-optimizer/
-│
-├── main.cpp
-├── README.md
-├── reprot.pdf
-└── sample_input.txt
-```
-
----
-
 ## 📈 Output Format
 
 1. Task allocation details

@@ -210,6 +210,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 <p align="center">
   <i>
     For more details, please refer to the 
-    <a href="docs/Report.pdf">full report</a>.
+    <a href="report.pdf">full report</a>.
   </i>
 </p>

@@ -101,9 +101,7 @@ To escape local optima:
 
 Acceptance rule:
 
-[
-P = \exp(-\Delta E / T)
-]
+$$ P = \exp(-\Delta E / T) $$
 
 This hybrid strategy consistently improves upon greedy-only solutions.
 
@@ -192,7 +190,6 @@ At time step 1, task 2 moves from node 1 to node 3.
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
----
 
 <p align="center">
   <i>
